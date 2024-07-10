@@ -1,7 +1,7 @@
 ## Hello, I’m Shraddha
 ## 📈 Data Analyst|Power BI developer
 - 📊 I’m interested in data analysis
-- 👩🏽‍💻 Passionate about turning data into actionable insights
+
 
 ## ✨Skills
 Data analysis:Power BI,Excel,SQL&Python
